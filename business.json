@@ -1,0 +1,36 @@
+{
+  "_readme": "Edit the values on the right of each colon. Keep the quote marks. See README.md.",
+
+  "name": "Gajanand Cloud Kitchen",
+  "nameGu": "ગજાનંદ ક્લાઉડ કિચન",
+  "tagline": "Pure veg. Cooked to order. Nadiad.",
+  "taglineGu": "શુદ્ધ શાકાહારી. ઓર્ડર પર બનાવેલું. નડિયાદ.",
+
+  "address": "Prasad, Alkapuri Road, Near Mahagujrat Hospital, Nadiad",
+  "addressGu": "પ્રસાદ, અલકાપુરી રોડ, મહાગુજરાત હોસ્પિટલ પાસે, નડિયાદ",
+  "mapsUrl": "https://maps.google.com/?q=Alkapuri+Road+Nadiad",
+
+  "phoneDisplay": "+91 79845 15371",
+  "phoneWhatsApp": "917984515371",
+  "instagram": "",
+
+  "upiId": "Q059039945@ybl",
+  "upiName": "Gajanand Cloud Kitchen",
+
+  "deliveryFee": 30,
+  "minimumOrder": 0,
+  "freeDeliveryAbove": 0,
+  "deliveryAreaNote": "We deliver across Nadiad.",
+  "deliveryAreaNoteGu": "અમે નડિયાદમાં ડિલિવરી કરીએ છીએ.",
+
+  "openTime": "11:00",
+  "closeTime": "23:00",
+  "closedToday": false,
+  "closedMessage": "",
+  "closedMessageGu": "",
+
+  "prepTimeNote": "Most orders are ready in 30 to 40 minutes.",
+  "prepTimeNoteGu": "મોટા ભાગના ઓર્ડર 30 થી 40 મિનિટમાં તૈયાર થાય છે.",
+
+  "fssai": ""
+}

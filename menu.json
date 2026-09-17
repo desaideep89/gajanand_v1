@@ -1,0 +1,108 @@
+[
+  {
+    "category": "Indo-Chinese",
+    "categoryGu": "ઇન્ડો-ચાઇનીઝ",
+    "items": [
+      {"id":"ic1","name":"Manchurian Dry","nameGu":"મંચુરિયન ડ્રાય","description":"Crisp veg balls tossed in Manchurian sauce","descriptionGu":"કરકરા વેજ બોલ મંચુરિયન સોસમાં","price":120,"soldOut":false,"featured":true},
+      {"id":"ic2","name":"Manchurian Gravy","nameGu":"મંચુરિયન ગ્રેવી","description":"Veg balls in a rich, savoury gravy","descriptionGu":"વેજ બોલ સ્વાદિષ્ટ ગ્રેવીમાં","price":130,"soldOut":false},
+      {"id":"ic3","name":"Hakka Noodles","nameGu":"હક્કા નૂડલ્સ","description":"Classic street-style vegetable stir fry","descriptionGu":"સ્ટ્રીટ સ્ટાઇલ વેજિટેબલ સ્ટર ફ્રાય","price":120,"soldOut":false,"featured":true},
+      {"id":"ic4","name":"Manchurian Noodles","nameGu":"મંચુરિયન નૂડલ્સ","description":"Noodles tossed with Manchurian sauce","descriptionGu":"નૂડલ્સ મંચુરિયન સોસ સાથે","price":130,"soldOut":false},
+      {"id":"ic5","name":"Veg Fried Rice","nameGu":"વેજ ફ્રાઇડ રાઇસ","description":"Wok-tossed with seasonal vegetables","descriptionGu":"તાજા શાકભાજી સાથે વોકમાં બનાવેલા","price":120,"soldOut":false},
+      {"id":"ic6","name":"Manchurian Rice","nameGu":"મંચુરિયન રાઇસ","description":"Fried rice loaded with Manchurian flavour","descriptionGu":"ફ્રાઇડ રાઇસ મંચુરિયન સ્વાદ સાથે","price":120,"soldOut":false},
+      {"id":"ic7","name":"Paneer Fried Rice","nameGu":"પનીર ફ્રાઇડ રાઇસ","description":"Fried rice with soft paneer cubes","descriptionGu":"નરમ પનીર ક્યુબ્સ સાથે ફ્રાઇડ રાઇસ","price":150,"soldOut":false},
+      {"id":"ic8","name":"Paneer Chilli Dry","nameGu":"પનીર ચિલી ડ્રાય","description":"Crisp paneer, capsicum and chilli-garlic glaze","descriptionGu":"કરકરું પનીર, કેપ્સીકમ અને ચિલી-ગાર્લિક","price":160,"soldOut":false},
+      {"id":"ic9","name":"Paneer Chilli Gravy","nameGu":"પનીર ચિલી ગ્રેવી","description":"Paneer chilli in a rich gravy","descriptionGu":"પનીર ચિલી સ્વાદિષ્ટ ગ્રેવીમાં","price":170,"soldOut":false}
+    ]
+  },
+  {
+    "category": "Paneer Rolls",
+    "categoryGu": "પનીર રોલ",
+    "items": [
+      {"id":"pr1","name":"Tandoori Paneer Roll","nameGu":"તંદૂરી પનીર રોલ","description":"Char-grilled paneer, onion and chutney","descriptionGu":"શેકેલું પનીર, ડુંગળી અને ચટણી","price":100,"soldOut":false,"featured":true},
+      {"id":"pr2","name":"Pahadi Paneer Roll","nameGu":"પહાડી પનીર રોલ","description":"Pahadi-spiced paneer wrapped fresh","descriptionGu":"પહાડી મસાલાવાળું પનીર, તાજું વીંટેલું","price":100,"soldOut":false},
+      {"id":"pr3","name":"Afghani Paneer Roll","nameGu":"અફઘાની પનીર રોલ","description":"Creamy Afghani paneer with mild spice","descriptionGu":"ક્રીમી અફઘાની પનીર, હળવો મસાલો","price":100,"soldOut":false},
+      {"id":"pr4","name":"Peri-Peri Paneer Roll","nameGu":"પેરી-પેરી પનીર રોલ","description":"Paneer with a punchy peri-peri kick","descriptionGu":"પેરી-પેરી તીખાશ સાથે પનીર","price":100,"soldOut":false},
+      {"id":"pr5","name":"Malai Paneer Roll","nameGu":"મલાઈ પનીર રોલ","description":"Malai-marinated paneer, extra creamy","descriptionGu":"મલાઈમાં મેરીનેટ કરેલું પનીર, વધુ ક્રીમી","price":110,"soldOut":false}
+    ]
+  },
+  {
+    "category": "Soya Chaap",
+    "categoryGu": "સોયા ચાપ",
+    "items": [
+      {"id":"sc1","name":"Tandoori Soya Chaap","nameGu":"તંદૂરી સોયા ચાપ","description":"Smoky char-grilled skewers","descriptionGu":"શેકેલા સ્મોકી સ્કિવર","price":200,"soldOut":false,"featured":true},
+      {"id":"sc2","name":"Pahadi Soya Chaap","nameGu":"પહાડી સોયા ચાપ","description":"Pahadi green-spiced skewers","descriptionGu":"પહાડી લીલા મસાલા સાથે","price":200,"soldOut":false},
+      {"id":"sc3","name":"Afghani Soya Chaap","nameGu":"અફઘાની સોયા ચાપ","description":"Creamy, mildly spiced skewers","descriptionGu":"ક્રીમી, હળવો મસાલો","price":200,"soldOut":false},
+      {"id":"sc4","name":"Peri-Peri Soya Chaap","nameGu":"પેરી-પેરી સોયા ચાપ","description":"Spiced skewers with peri-peri heat","descriptionGu":"પેરી-પેરી તીખાશ સાથે મસાલેદાર","price":200,"soldOut":false},
+      {"id":"sc5","name":"Malai Soya Chaap","nameGu":"મલાઈ સોયા ચાપ","description":"Rich malai marinade, extra creamy","descriptionGu":"મલાઈ મેરીનેડ, વધુ ક્રીમી","price":220,"soldOut":false}
+    ]
+  },
+  {
+    "category": "Pasta",
+    "categoryGu": "પાસ્તા",
+    "items": [
+      {"id":"ps1","name":"Red Sauce Pasta","nameGu":"રેડ સોસ પાસ્તા","description":"Classic tomato-basil arrabbiata","descriptionGu":"ક્લાસિક ટમેટા-બેસિલ","price":100,"soldOut":false},
+      {"id":"ps2","name":"Baked Cheese Red Sauce Pasta","nameGu":"બેક્ડ ચીઝ રેડ સોસ પાસ્તા","description":"Red sauce pasta baked with cheese","descriptionGu":"રેડ સોસ પાસ્તા ચીઝ સાથે બેક કરેલું","price":130,"soldOut":false},
+      {"id":"ps3","name":"White Sauce Pasta","nameGu":"વ્હાઇટ સોસ પાસ્તા","description":"Creamy garlic-cheese sauce","descriptionGu":"ક્રીમી ગાર્લિક-ચીઝ સોસ","price":100,"soldOut":false},
+      {"id":"ps4","name":"Pink Sauce Pasta","nameGu":"પિંક સોસ પાસ્તા","description":"The best of red and white sauce","descriptionGu":"રેડ અને વ્હાઇટ સોસનું મિશ્રણ","price":120,"soldOut":false}
+    ]
+  },
+  {
+    "category": "Pizza · 8 inch",
+    "categoryGu": "પિઝા · 8 ઇંચ",
+    "items": [
+      {"id":"pz1","name":"Margherita","nameGu":"માર્ગેરિટા","description":"Mozzarella over herb tomato sauce","descriptionGu":"હર્બ ટમેટા સોસ પર મોઝેરેલા","price":130,"soldOut":false,"featured":true},
+      {"id":"pz2","name":"Farm Fresh","nameGu":"ફાર્મ ફ્રેશ","description":"Capsicum, onion, corn, olives and jalapeño","descriptionGu":"કેપ્સીકમ, ડુંગળી, મકાઈ, ઓલિવ અને જલાપીનો","price":160,"soldOut":false},
+      {"id":"pz3","name":"Corn Cheese","nameGu":"કોર્ન ચીઝ","description":"Sweet corn, mozzarella and cheddar","descriptionGu":"મીઠી મકાઈ, મોઝેરેલા અને ચેડર","price":140,"soldOut":false},
+      {"id":"pz4","name":"Tandoori Paneer","nameGu":"તંદૂરી પનીર","description":"Smoky paneer, onion and capsicum","descriptionGu":"સ્મોકી પનીર, ડુંગળી અને કેપ્સીકમ","price":180,"soldOut":false},
+      {"id":"pz5","name":"Double Cheese Margherita","nameGu":"ડબલ ચીઝ માર્ગેરિટા","description":"A double layer of melted cheese","descriptionGu":"પીગળેલા ચીઝનું બમણું લેયર","price":170,"soldOut":false},
+      {"id":"pz6","name":"Capsicum & Red Paprika","nameGu":"કેપ્સીકમ અને રેડ પૅપ્રિકા","description":"Crunchy capsicum and spicy red paprika","descriptionGu":"કરકરું કેપ્સીકમ અને તીખી પૅપ્રિકા","price":180,"soldOut":false},
+      {"id":"pz7","name":"Triple Veggie Delight","nameGu":"ટ્રિપલ વેજી ડિલાઇટ","description":"Jalapeño, sweet corn, tomato and cheese","descriptionGu":"જલાપીનો, મીઠી મકાઈ, ટમેટા અને ચીઝ","price":150,"soldOut":false},
+      {"id":"pz8","name":"Veg Buddies","nameGu":"વેજ બડીઝ","description":"Tomato and capsicum with loaded cheese","descriptionGu":"ટમેટા અને કેપ્સીકમ ભરપૂર ચીઝ સાથે","price":140,"soldOut":false},
+      {"id":"pz9","name":"Onion Capsicum","nameGu":"ડુંગળી કેપ્સીકમ","description":"Classic onion, capsicum and melted cheese","descriptionGu":"ક્લાસિક ડુંગળી, કેપ્સીકમ અને પીગળેલું ચીઝ","price":140,"soldOut":false},
+      {"id":"pz10","name":"Four Cheese","nameGu":"ફોર ચીઝ","description":"Mozzarella, cheddar, colby and monterey jack","descriptionGu":"મોઝેરેલા, ચેડર, કોલ્બી અને મોન્ટેરી જૅક","price":190,"soldOut":false},
+      {"id":"pz11","name":"Paneer Makhani","nameGu":"પનીર મખની","description":"Makhani sauce, paneer and melted cheese","descriptionGu":"મખની સોસ, પનીર અને પીગળેલું ચીઝ","price":170,"soldOut":false}
+    ]
+  },
+  {
+    "category": "Garlic Bread · 5 pcs",
+    "categoryGu": "ગાર્લિક બ્રેડ · 5 નંગ",
+    "items": [
+      {"id":"gb1","name":"Plain Garlic Bread","nameGu":"પ્લેન ગાર્લિક બ્રેડ","description":"Garlic butter and herbs","descriptionGu":"ગાર્લિક બટર અને હર્બ્સ","price":80,"soldOut":false},
+      {"id":"gb2","name":"Cheesy Garlic Bread","nameGu":"ચીઝી ગાર્લિક બ્રેડ","description":"Mozzarella and cheddar melt","descriptionGu":"મોઝેરેલા અને ચેડર","price":90,"soldOut":false},
+      {"id":"gb3","name":"Chilli Garlic Bread","nameGu":"ચિલી ગાર્લિક બ્રેડ","description":"Green chillies and melted cheese","descriptionGu":"લીલાં મરચાં અને પીગળેલું ચીઝ","price":100,"soldOut":false},
+      {"id":"gb4","name":"Onion & Chilli Garlic Bread","nameGu":"ડુંગળી અને ચિલી ગાર્લિક બ્રેડ","description":"Onion, green chilli and melted cheese","descriptionGu":"ડુંગળી, લીલું મરચું અને પીગળેલું ચીઝ","price":110,"soldOut":false},
+      {"id":"gb5","name":"Corn Cheese Garlic Bread","nameGu":"કોર્ન ચીઝ ગાર્લિક બ્રેડ","description":"Sweet corn, garlic butter and cheese","descriptionGu":"મીઠી મકાઈ, ગાર્લિક બટર અને ચીઝ","price":100,"soldOut":false},
+      {"id":"gb6","name":"Corn Jalapeño Garlic Bread","nameGu":"કોર્ન જલાપીનો ગાર્લિક બ્રેડ","description":"Sweet corn and fiery jalapeño","descriptionGu":"મીઠી મકાઈ અને તીખું જલાપીનો","price":110,"soldOut":false},
+      {"id":"gb7","name":"Cheese Burst Garlic Bread","nameGu":"ચીઝ બર્સ્ટ ગાર્લિક બ્રેડ","description":"Stuffed with molten cheese sauce","descriptionGu":"પીગળેલા ચીઝ સોસથી ભરેલું","price":130,"soldOut":false},
+      {"id":"gb8","name":"Cheese Corn Onion Garlic Bread","nameGu":"ચીઝ કોર્ન ડુંગળી ગાર્લિક બ્રેડ","description":"Corn, onion and melted cheese","descriptionGu":"મકાઈ, ડુંગળી અને પીગળેલું ચીઝ","price":120,"soldOut":false},
+      {"id":"gb9","name":"Gajanand Special Garlic Bread","nameGu":"ગજાનંદ સ્પેશિયલ ગાર્લિક બ્રેડ","description":"Corn, onion, jalapeño and black olives","descriptionGu":"મકાઈ, ડુંગળી, જલાપીનો અને કાળા ઓલિવ","price":140,"soldOut":false,"featured":true}
+    ]
+  },
+  {
+    "category": "Burgers",
+    "categoryGu": "બર્ગર",
+    "items": [
+      {"id":"bg1","name":"Veg Burger","nameGu":"વેજ બર્ગર","description":"Crumb-fried patty and house sauce","descriptionGu":"ક્રમ્બ-ફ્રાઇડ પૅટી અને હાઉસ સોસ","price":70,"soldOut":false},
+      {"id":"bg2","name":"Veg Cheese Burger","nameGu":"વેજ ચીઝ બર્ગર","description":"Classic patty with melted cheese","descriptionGu":"ક્લાસિક પૅટી પીગળેલા ચીઝ સાથે","price":80,"soldOut":false,"featured":true},
+      {"id":"bg3","name":"Veg Double Cheese Burger","nameGu":"વેજ ડબલ ચીઝ બર્ગર","description":"Double cheese, extra loaded","descriptionGu":"ડબલ ચીઝ, વધુ ભરપૂર","price":90,"soldOut":false}
+    ]
+  },
+  {
+    "category": "Maggi",
+    "categoryGu": "મેગી",
+    "items": [
+      {"id":"mg1","name":"Masala Maggi","nameGu":"મસાલા મેગી","description":"The classic, loaded with masala","descriptionGu":"ક્લાસિક, ભરપૂર મસાલા સાથે","price":70,"soldOut":false},
+      {"id":"mg2","name":"Butter Garlic Maggi","nameGu":"બટર ગાર્લિક મેગી","description":"A buttery garlic twist","descriptionGu":"બટર અને લસણનો ટ્વિસ્ટ","price":90,"soldOut":false},
+      {"id":"mg3","name":"Veg Maggi","nameGu":"વેજ મેગી","description":"Maggi with fresh vegetables","descriptionGu":"તાજા શાકભાજી સાથે મેગી","price":100,"soldOut":false},
+      {"id":"mg4","name":"Masala Cheese Maggi","nameGu":"મસાલા ચીઝ મેગી","description":"Masala Maggi loaded with cheese","descriptionGu":"મસાલા મેગી ભરપૂર ચીઝ સાથે","price":100,"soldOut":false}
+    ]
+  },
+  {
+    "category": "French Fries",
+    "categoryGu": "ફ્રેન્ચ ફ્રાઈસ",
+    "items": [
+      {"id":"ff1","name":"Salted Fries","nameGu":"સોલ્ટેડ ફ્રાઈસ","description":"Classic golden salted fries","descriptionGu":"ક્લાસિક ગોલ્ડન સોલ્ટેડ ફ્રાઈસ","price":90,"soldOut":false},
+      {"id":"ff2","name":"Peri-Peri Fries","nameGu":"પેરી-પેરી ફ્રાઈસ","description":"Tossed in peri-peri seasoning","descriptionGu":"પેરી-પેરી સીઝનિંગમાં","price":100,"soldOut":false}
+    ]
+  }
+]
